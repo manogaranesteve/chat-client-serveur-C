@@ -29,9 +29,9 @@ gcc serveur.c -o serveur
 
 ## Authors
 
-* **Steve MANOGARANE** - *Initial work* - [PurpleBooth](https://github.com/manogaranesteve)
+* **Steve MANOGARANE** - *Initial work* - [manogaranesteve](https://github.com/manogaranesteve)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/manogaranesteve) who participated in this project.
 
 ## License
 
