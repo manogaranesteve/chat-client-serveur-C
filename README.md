@@ -1,8 +1,4 @@
 # chat-client-serveur-C
-mini chat
-
-
-# chat-client-serveur-C
 
 chat client - serveur
 
